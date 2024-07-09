@@ -1,6 +1,4 @@
-Sure! Here's the updated README file for your GitHub profile with the requested changes and additional emojis:
 
----
 
 ## Hi there 👋
 
