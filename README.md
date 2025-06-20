@@ -1,36 +1,54 @@
+## 👋 Hi there!
 
+I'm **Adarsh Rakesh Srivastava**, a passionate **Full Stack Developer** with 1+ year of experience building scalable web and mobile applications. My primary focus is on **frontend development with React.js**, but I also have a strong command over **Node.js**, **CodeIgniter**, and mobile development using **Ionic**.
 
-## Hi there 👋
+---
 
-My name is **Adarsh Rakesh Srivastava**. I am a full-stack developer with a focus on frontend development using React.js. I also have a strong foundation in core Java with OOP principles and C programming. As a freelancer, I am always open to new opportunities and collaborations.
+### 🔭 Currently Working On
+- 💼 Working as a **Full Stack Developer at Imvvy Technologies**, building web and mobile apps using **React.js**, **Ionic**, **CodeIgniter (PHP)**, and **MySQL**.
+- 📚 Serving as a **trainer at multiple institutes**, helping aspiring developers and professionals grow their skills in web development.
+- 🚀 Taking on **freelance projects** to deliver tailored tech solutions for startups and businesses.
 
-### 🔭 I’m currently working on
-- 📚 Working as a trainer in different institutes to share my knowledge and help others grow
-- 💼 Freelance projects to help businesses achieve their goals with my technical expertise.
+---
 
-### 👯 I’m looking to collaborate on
-- 💻 Projects that require strong frontend development with React.js.
-- 🌟 Innovative ideas that leverage the power of full-stack development.
+### 👯 Open to Collaborate On
+- 💻 Frontend-heavy projects with **React.js**, **Redux**, or **Angular**.
+- 🌐 Full-stack applications using **MERN stack** or **PHP with MySQL**.
+- 📱 Cross-platform mobile apps with **Ionic Framework**.
+- 🤝 Freelance work or open-source contributions.
 
-### 🤔 I’m looking for help with
-- 🛠️ Enhancing my backend development skills.
-- 🔍 Exploring new technologies and frameworks.
+---
 
-### 💬 Ask me about
-- ⚛️ React.js and frontend development .
-- ☕ Java core concepts and OOP principles.
-- 🌐 Freelancing tips and experiences.
+### 🤔 Looking for Help With
+- 🔧 Deepening my backend expertise in advanced **Node.js** and modern **architecture patterns**.
+- 🔍 Exploring cutting-edge technologies and tools in **DevOps**, **cloud**, and **microservices**.
 
-### 📫 How to reach me
+---
+
+### 💬 Ask Me About
+- ⚛️ Building frontend apps with **React.js**, **Redux**, **Ionic**.
+- ☕ Core Java, OOP principles, and clean code practices.
+- 🧑‍💼 My journey in freelancing and training.
+- 📈 Building real-world projects from scratch and delivering results.
+
+---
+
+### 📫 Let’s Connect
 - 📧 Email: [adsrivstav179@gmail.com](mailto:adsrivstav179@gmail.com)
 - 💼 LinkedIn: [Adarsh Srivastava](https://www.linkedin.com/in/adarsh-srivastav-ab40931b1/)
+- 🧑‍💻 GitHub: [@adsrivastav](https://github.com/adsrivastav)
+
+---
 
 ### 😄 Pronouns
 - He/Him
 
-### ⚡ Fun fact
-- I am very enthusiastic about contributing my skills to a company's success and am always eager to learn and grow.
+---
 
-Feel free to connect with me and explore potential collaborations!
+### ⚡ Fun Fact
+I enjoy turning ideas into real products! Whether it's mentoring, coding, or collaborating on something new — I'm always up for the challenge.
+
+> *"Every great app starts with a single line of clean, thoughtful code."*
 
 ---
+
