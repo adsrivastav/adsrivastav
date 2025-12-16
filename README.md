@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Adarsh Rakesh Srivastava**, a passionate **Full Stack Developer** with 1+ year of experience building scalable web and mobile applications. My primary focus is on **frontend development with React.js**, but I also have a strong command over **Node.js**, **CodeIgniter**, and mobile development using **Ionic**.
+I'm **Adarsh Rakesh Srivastava**, a passionate **Full Stack Developer** with 1+ year of experience building scalable web and mobile applications. My primary focus is on **frontend development with React.js**, but I also have a strong command over **Node.js**, **CodeIgniter(PHP)**, and mobile development using **Ionic**.
 
 ---
 
