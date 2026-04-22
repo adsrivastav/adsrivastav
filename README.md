@@ -5,7 +5,8 @@ I'm **Adarsh Rakesh Srivastava**, a passionate **Full Stack Developer** with 1+ 
 ---
 
 ### 🔭 Currently Working On
-- 💼 Working as a **Full Stack Developer at Imvvy Technologies**, building web and mobile apps using **React.js**, **Ionic**, **CodeIgniter (PHP)**, and **MySQL**.
+- Working in **LOGIX INFOTECH LLP ** 
+- 💼 Worked as a **Full Stack Developer at Imvvy Technologies**, building web and mobile apps using **React.js**, **Ionic**, **CodeIgniter (PHP)**, and **MySQL**.
 - 📚 Serving as a **trainer at multiple institutes**, helping aspiring developers and professionals grow their skills in web development.
 - 🚀 Taking on **freelance projects** to deliver tailored tech solutions for startups and businesses.
 
